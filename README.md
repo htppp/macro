@@ -1,2 +1,2 @@
 # 極青龍征魂戦
-![SS](./seiryu.png)
+![SS](./ss_seiryu.png)
